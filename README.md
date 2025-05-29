@@ -22,5 +22,3 @@ A simple React + TypeScript application that fetches user data from the JSONPlac
 
 3. **Run The Project**
    `npm run dev`
-
-    Then open your browser and go to `http://localhost:5173`
